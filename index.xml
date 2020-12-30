@@ -5,7 +5,19 @@
     <link>https://blog.lu4p.xyz/</link>
     <description>Recent content on lu4p&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Dec 2020 22:23:20 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 03:28:14 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding HTML templates in Go (golang)</title>
+      <link>https://blog.lu4p.xyz/posts/golang-template-turbo/</link>
+      <pubDate>Wed, 30 Dec 2020 03:28:14 +0100</pubDate>
+      
+      <guid>https://blog.lu4p.xyz/posts/golang-template-turbo/</guid>
+      <description>I use Echo in this post, but you could also use plain net/http, or any of the other awesome web frameworks for Go, see a list here.
+The Go standard library provides a html/template package, for dynamically rendering HTML, it is built on top of text/template
+Go templates are normal HTML files, with &amp;ldquo;Actions&amp;rdquo; (data evaluations or control structures), these &amp;ldquo;Actions&amp;rdquo; are delimited via {{and}}.
+A template is executed via applying a data structure to it, the data structure is referenced as a dot .</description>
+    </item>
+    
     <item>
       <title>Inner workings of allocating slices with go (golang)</title>
       <link>https://blog.lu4p.xyz/posts/slices/</link>

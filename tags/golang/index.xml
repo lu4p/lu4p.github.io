@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lu4p&#39;s blog</title>
-    <link>https://blog.lu4p.xyz/</link>
-    <description>Recent content on lu4p&#39;s blog</description>
+    <title>golang on lu4p&#39;s blog</title>
+    <link>https://blog.lu4p.xyz/tags/golang/</link>
+    <description>Recent content in golang on lu4p&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 30 Dec 2020 03:28:14 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 03:28:14 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding HTML templates in Go (golang)</title>
       <link>https://blog.lu4p.xyz/posts/golang-template-turbo/</link>
@@ -28,24 +28,6 @@ A template is executed via applying a data structure to it, the data structure i
 Arrays In order to understand what a slice is one needs to first understand how arrays work in go.
 An array&amp;rsquo;s type definition specifies a length and an element type. For example, the type [3]int represents an array of three integers.
 An array&amp;rsquo;s size is fixed, its length is part of the type, so [2]int and [3]int are incompatible, e.</description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://blog.lu4p.xyz/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.lu4p.xyz/archive/</guid>
-      <description>archive</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://blog.lu4p.xyz/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.lu4p.xyz/search/</guid>
-      <description>search</description>
     </item>
     
   </channel>

@@ -4,6 +4,25 @@
     <title>Tags on lu4p&#39;s blog</title>
     <link>https://blog.lu4p.xyz/tags/</link>
     <description>Recent content in Tags on lu4p&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://blog.lu4p.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Dec 2020 03:28:14 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>golang</title>
+      <link>https://blog.lu4p.xyz/tags/golang/</link>
+      <pubDate>Wed, 30 Dec 2020 03:28:14 +0100</pubDate>
+      
+      <guid>https://blog.lu4p.xyz/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://blog.lu4p.xyz/tags/templates/</link>
+      <pubDate>Wed, 30 Dec 2020 03:28:14 +0100</pubDate>
+      
+      <guid>https://blog.lu4p.xyz/tags/templates/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

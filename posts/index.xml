@@ -19,7 +19,7 @@ A template is executed via applying a data structure to it, the data structure i
     </item>
     
     <item>
-      <title>Inner workings of allocating slices with go (golang)</title>
+      <title>Inner workings of allocating slices with Go (golang)</title>
       <link>https://blog.lu4p.xyz/posts/slices/</link>
       <pubDate>Wed, 02 Dec 2020 22:23:20 +0100</pubDate>
       

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>templates on lu4p&#39;s blog</title>
+    <link>https://blog.lu4p.xyz/tags/templates/</link>
+    <description>Recent content in templates on lu4p&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Dec 2020 03:28:14 +0100</lastBuildDate><atom:link href="https://blog.lu4p.xyz/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding HTML templates in Go (golang)</title>
+      <link>https://blog.lu4p.xyz/posts/golang-template-turbo/</link>
+      <pubDate>Wed, 30 Dec 2020 03:28:14 +0100</pubDate>
+      
+      <guid>https://blog.lu4p.xyz/posts/golang-template-turbo/</guid>
+      <description>I use Echo in this post, but you could also use plain net/http, or any of the other awesome web frameworks for Go, see a list here.
+The Go standard library provides a html/template package, for dynamically rendering HTML, it is built on top of text/template
+Go templates are normal HTML files, with &amp;ldquo;Actions&amp;rdquo; (data evaluations or control structures), these &amp;ldquo;Actions&amp;rdquo; are delimited via {{and}}.
+A template is executed via applying a data structure to it, the data structure is referenced as a dot .</description>
+    </item>
+    
+  </channel>
+</rss>

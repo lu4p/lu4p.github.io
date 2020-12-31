@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.lu4p.xyz/tags/golang/</loc>
+    <lastmod>2020-12-30T03:28:14+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.lu4p.xyz/</loc>
     <lastmod>2020-12-30T03:28:14+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.lu4p.xyz/posts/</loc>
+    <lastmod>2020-12-30T03:28:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lu4p.xyz/tags/</loc>
+    <lastmod>2020-12-30T03:28:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lu4p.xyz/tags/templates/</loc>
     <lastmod>2020-12-30T03:28:14+01:00</lastmod>
   </url>
   
@@ -31,7 +46,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lu4p.xyz/tags/</loc>
+    <loc>https://blog.lu4p.xyz/search/</loc>
   </url>
   
 </urlset>
